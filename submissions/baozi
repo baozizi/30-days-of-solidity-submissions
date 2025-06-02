@@ -1,0 +1,5 @@
+ submissions/
+    ├── dev-sethu/
+    │   └── MyToken.sol
+    └── alice-dev/
+        └── MyToken.sol
